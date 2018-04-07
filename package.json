@@ -1,0 +1,23 @@
+{
+  "author": "Thomas Ingram",
+  "name": "stylelint-config-bespoke",
+  "version": "0.1.0",
+  "description": "idk",
+  "license": "ISC",
+  "main": "index.json",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "homepage": "https://github.com/ravinggenius/stylelint-config-bespoke",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravinggenius/stylelint-config-bespoke.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravinggenius/stylelint-config-bespoke/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
